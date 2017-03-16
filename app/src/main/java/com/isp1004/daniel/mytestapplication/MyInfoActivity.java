@@ -63,6 +63,8 @@ public class MyInfoActivity extends AppCompatActivity {
             }
         });
 
+        int i = 0;
+
     }
 
 
